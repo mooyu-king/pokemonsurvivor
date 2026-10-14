@@ -1,0 +1,1 @@
+G.FIREBASE_CONFIG = null;
