@@ -1,0 +1,7 @@
+:HL["/_next/static/css/8b04e9d72f6e6200.css","style"]
+:HL["/_next/static/css/8c60ff1d04aef853.css","style"]
+:HL["/logo.svg","image"]
+:HL["/images/pokebonk/gameplay.webp","image",{"fetchPriority":"high"}]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"pokebonk","h":96,"c":"$Q2"}]]
+0:{"b":"ChUkcGG3T1XkmQS4D7KB3","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

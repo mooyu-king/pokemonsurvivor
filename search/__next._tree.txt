@@ -3,5 +3,5 @@
 :HL["/_next/static/css/89183fefb0fb9367.css","style"]
 :HL["/logo.svg","image"]
 2:[["children",{"s":"__PAGE__","h":160}]]
-1:[["children",{"s":{"n":"slug","t":"c","k":"search","s":["_not-found","_global-error","robots.txt","sitemap.xml"]},"h":65632,"c":"$Q2"}]]
-0:{"b":"plMI2MznWEDnZXcTa23eI","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+1:[["children",{"s":{"n":"slug","t":"c","k":"search","s":["_not-found","_global-error","pokebonk","robots.txt","sitemap.xml"]},"h":65632,"c":"$Q2"}]]
+0:{"b":"ChUkcGG3T1XkmQS4D7KB3","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
