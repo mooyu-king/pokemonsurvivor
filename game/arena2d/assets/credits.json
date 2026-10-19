@@ -1,0 +1,216 @@
+{
+  "source": "https://pokemonarena2d.online/game/",
+  "spriteSource": "https://github.com/PMDCollab/SpriteCollab",
+  "spriteLicense": "CC BY-NC 4.0",
+  "note": "非商业同人研究版；竞技场图片来源参考站，未取得独立商业授权。Pokémon角色权利属于原权利人。",
+  "authors": {
+    "charizard": [
+      {
+        "id": "CHUNSOFT",
+        "name": "CHUNSOFT",
+        "contact": "https://www.spike-chunsoft.com/"
+      },
+      {
+        "id": "<@!237286997645983744>",
+        "name": "Emboarger",
+        "contact": ""
+      }
+    ],
+    "pikachu": [
+      {
+        "id": "CHUNSOFT",
+        "name": "CHUNSOFT",
+        "contact": "https://www.spike-chunsoft.com/"
+      }
+    ],
+    "blastoise": [
+      {
+        "id": "CHUNSOFT",
+        "name": "CHUNSOFT",
+        "contact": "https://www.spike-chunsoft.com/"
+      }
+    ],
+    "arcanine": [
+      {
+        "id": "CHUNSOFT",
+        "name": "CHUNSOFT",
+        "contact": "https://www.spike-chunsoft.com/"
+      }
+    ],
+    "alakazam": [
+      {
+        "id": "CHUNSOFT",
+        "name": "CHUNSOFT",
+        "contact": "https://www.spike-chunsoft.com/"
+      }
+    ],
+    "machamp": [
+      {
+        "id": "CHUNSOFT",
+        "name": "CHUNSOFT",
+        "contact": "https://www.spike-chunsoft.com/"
+      }
+    ],
+    "gengar": [
+      {
+        "id": "CHUNSOFT",
+        "name": "CHUNSOFT",
+        "contact": "https://www.spike-chunsoft.com/"
+      },
+      {
+        "id": "<@!237286997645983744>",
+        "name": "Emboarger",
+        "contact": ""
+      }
+    ],
+    "lapras": [
+      {
+        "id": "CHUNSOFT",
+        "name": "CHUNSOFT",
+        "contact": "https://www.spike-chunsoft.com/"
+      }
+    ],
+    "dragonite": [
+      {
+        "id": "CHUNSOFT",
+        "name": "CHUNSOFT",
+        "contact": "https://www.spike-chunsoft.com/"
+      },
+      {
+        "id": "<@!268261643178344448>",
+        "name": "SethY",
+        "contact": "https://linktr.ee/sethyuikora"
+      },
+      {
+        "id": "<@!157796074457661440>",
+        "name": "Deeshura",
+        "contact": "https://bsky.app/profile/deeshura.bsky.social"
+      }
+    ],
+    "venusaur": [
+      {
+        "id": "CHUNSOFT",
+        "name": "CHUNSOFT",
+        "contact": "https://www.spike-chunsoft.com/"
+      }
+    ],
+    "snorlax": [
+      {
+        "id": "CHUNSOFT",
+        "name": "CHUNSOFT",
+        "contact": "https://www.spike-chunsoft.com/"
+      }
+    ],
+    "espeon": [
+      {
+        "id": "CHUNSOFT",
+        "name": "CHUNSOFT",
+        "contact": "https://www.spike-chunsoft.com/"
+      }
+    ],
+    "umbreon": [
+      {
+        "id": "CHUNSOFT",
+        "name": "CHUNSOFT",
+        "contact": "https://www.spike-chunsoft.com/"
+      },
+      {
+        "id": "<@!356635814668664832>",
+        "name": "Emmuffin",
+        "contact": "https://twitter.com/Ernmuffin"
+      }
+    ],
+    "scizor": [
+      {
+        "id": "CHUNSOFT",
+        "name": "CHUNSOFT",
+        "contact": "https://www.spike-chunsoft.com/"
+      }
+    ],
+    "tyranitar": [
+      {
+        "id": "CHUNSOFT",
+        "name": "CHUNSOFT",
+        "contact": "https://www.spike-chunsoft.com/"
+      }
+    ],
+    "sceptile": [
+      {
+        "id": "CHUNSOFT",
+        "name": "CHUNSOFT",
+        "contact": "https://www.spike-chunsoft.com/"
+      }
+    ],
+    "blaziken": [
+      {
+        "id": "CHUNSOFT",
+        "name": "CHUNSOFT",
+        "contact": "https://www.spike-chunsoft.com/"
+      }
+    ],
+    "swampert": [
+      {
+        "id": "CHUNSOFT",
+        "name": "CHUNSOFT",
+        "contact": "https://www.spike-chunsoft.com/"
+      },
+      {
+        "id": "<@!356635814668664832>",
+        "name": "Emmuffin",
+        "contact": "https://twitter.com/Ernmuffin"
+      }
+    ],
+    "salamence": [
+      {
+        "id": "CHUNSOFT",
+        "name": "CHUNSOFT",
+        "contact": "https://www.spike-chunsoft.com/"
+      },
+      {
+        "id": "<@!356635814668664832>",
+        "name": "Emmuffin",
+        "contact": "https://twitter.com/Ernmuffin"
+      }
+    ],
+    "metagross": [
+      {
+        "id": "CHUNSOFT",
+        "name": "CHUNSOFT",
+        "contact": "https://www.spike-chunsoft.com/"
+      }
+    ],
+    "garchomp": [
+      {
+        "id": "CHUNSOFT",
+        "name": "CHUNSOFT",
+        "contact": "https://www.spike-chunsoft.com/"
+      }
+    ],
+    "lucario": [
+      {
+        "id": "CHUNSOFT",
+        "name": "CHUNSOFT",
+        "contact": "https://www.spike-chunsoft.com/"
+      },
+      {
+        "id": "<@!356635814668664832>",
+        "name": "Emmuffin",
+        "contact": "https://twitter.com/Ernmuffin"
+      }
+    ],
+    "togekiss": [
+      {
+        "id": "CHUNSOFT",
+        "name": "CHUNSOFT",
+        "contact": "https://www.spike-chunsoft.com/"
+      }
+    ],
+    "hydreigon": [
+      {
+        "id": "<@!276369635304275968>",
+        "name": "Top_Kec",
+        "contact": "@topkec.bsky.social"
+      }
+    ]
+  }
+}
