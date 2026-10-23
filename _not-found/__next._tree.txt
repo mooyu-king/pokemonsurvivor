@@ -1,5 +1,5 @@
-:HL["/_next/static/css/97d69044e916a9d9.css","style"]
+:HL["/_next/static/css/9d88190a18f4482c.css","style"]
 :HL["/logo.svg","image"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"mkGlk8sg3LYsyV-dMURkz","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"KgPazfsNibl6nv0utUCgg","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

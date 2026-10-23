@@ -13,3 +13,12 @@
 /package.json
 /package-lock.json
 /npm-debug.log*
+
+.git
+.git/**
+**/.git/**
+wrangler.jsonc
+wrangler.toml
+HANDOFF.md
+AGENTS.md
+*.log

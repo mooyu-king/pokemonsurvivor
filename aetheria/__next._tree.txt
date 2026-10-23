@@ -1,0 +1,6 @@
+:HL["/_next/static/css/9d88190a18f4482c.css","style"]
+:HL["/_next/static/css/0b42a48df6a71354.css","style"]
+:HL["/logo.svg","image"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"aetheria","h":96,"c":"$Q2"}]]
+0:{"b":"KgPazfsNibl6nv0utUCgg","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

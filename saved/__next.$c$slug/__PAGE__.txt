@@ -1,52 +1,57 @@
 1:"$Sreact.fragment"
-2:"static/chunks/939-ae47ea2796f13951.js"
-3:"static/chunks/app/layout-93660e98686c424f.js"
-4:I[7904,["939","$2","177","$3"],""]
-5:"static/chunks/app/%5B...slug%5D/page-7da1450359a3140f.js"
-6:I[939,["939","$2","48","$5"],"SiteProvider"]
-7:I[939,["939","$2","48","$5"],"Header"]
-8:I[4580,[],""]
-9:I[5106,[],""]
-10:I[9767,["939","$2","48","$5"],"Saved"]
-15:"ViewportBoundary"
-16:I[6081,[],"$15"]
-17:"MetadataBoundary"
-18:I[6081,[],"$17"]
-19:"$Sreact.suspense"
-:HL["/_next/static/css/97d69044e916a9d9.css","style"]
+2:"static/chunks/157-a530fa36d4b1f6e1.js"
+3:"static/chunks/app/layout-5accda2071a5c205.js"
+4:I[7752,["157","$2","177","$3"],""]
+5:"static/chunks/app/page-e81a899e81bbeef0.js"
+6:I[9157,["157","$2","974","$5"],"SiteProvider"]
+7:I[9157,["157","$2","974","$5"],"Header"]
+8:I[9132,[],""]
+9:I[3690,[],""]
+16:"ViewportBoundary"
+17:I[9945,[],"$16"]
+18:"MetadataBoundary"
+19:I[9945,[],"$18"]
+1a:"$Sreact.suspense"
+:HL["/_next/static/css/9d88190a18f4482c.css","style"]
 :HL["/logo.svg","image"]
 b:X
 e:X
 e:C
-f:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","header",null,{"className":"page-intro","children":[["$","a",null,{"href":"/","className":"back-link","children":["Home / ","saved"]}],["$","h1",null,{"children":"Your saved builds"}],["$","div",null,{"className":"intro-copy","children":["$","p",null,{"children":"Manage local wiki drafts and owned markers. Export a JSON backup or review an imported file."}]}],["$","div",null,{"className":"source-badge","children":[["$","span",null,{"className":"status-dot"}],"Source checked · ",["$","a",null,{"href":"https://github.com/JPTER78/pokesurvivor/tree/b29708900da26b34e70d2dc07ad1659a719f4a78","target":"_blank","rel":"noopener","children":"b297089"}],["$","span",null,{"children":"14 Oct 2026"}]]}]]}],false,["$","$L10",null,{}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://pokemonsurvivor.wiki/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Your saved builds\",\"item\":\"https://pokemonsurvivor.wiki/saved/\"}]}"}}],"$undefined"],["$L11","$L12"],"$L13"]}],"p":"$@14","v":null,"s":"$b"}}]]
-c:[["children",{"s":{"n":"slug","t":"c","k":"saved","s":["_not-found","_global-error","Pokemon-Arena-2D","pokebonk","robots.txt","sitemap.xml"]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","template":["$","$L9",null,{}]}]]}],"p":"$@d","v":"$e","s":"$b"},"c":"$Qf"}]]
-0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/97d69044e916a9d9.css","precedence":"next"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":["$","$L4",null,{"id":"private-build-fragment","strategy":"beforeInteractive","children":"if(location.hash.startsWith(\"#build=\")){window.__PSWIKI_BUILD_HASH=location.hash;history.replaceState(history.state,\"\",location.pathname+location.search);}"}]}],["$","body",null,{"children":[["$","a",null,{"className":"skip-link","href":"#main","children":"Skip to content"}],["$","$L6",null,{"children":[["$","$L7",null,{}],["$","main",null,{"id":"main","className":"wrap","children":["$","$L8",null,{"parallelRouterKey":"children","template":["$","$L9",null,{}],"notFound":[["$","section",null,{"className":"empty-state","children":[["$","span",null,{"className":"eyebrow","children":"404 / OFF THE MAP"}],["$","h1",null,{"children":"This trail ends here."}],["$","p",null,{"children":"The page may have moved. Your next run is still waiting."}],["$","a",null,{"className":"button primary","href":"/","children":"Return to the game"}],["$","a",null,{"className":"button","href":"/guides/","children":"Browse guides"}]]}],[]]}]}],["$","footer",null,{"className":"footer","children":[["$","div",null,{"className":"wrap footer-main","children":[["$","div",null,{"className":"footer-brand","children":[["$","a",null,{"className":"brand","href":"/","children":[["$","img",null,{"src":"/logo.svg","width":"42","height":"42","alt":"Pokémon Survivor Wiki compass logo"}],["$","span",null,{"className":"brand-name","children":[["$","span",null,{"children":"Pokémon"}],["$","span",null,{"children":["Survivor ",["$","b",null,{"children":"Wiki"}]]}]]}]]}],["$","p",null,{"children":"Your field guide for the next run."}],["$","p",null,{"className":"small","children":"An independent fan wiki for JPTER78’s PokéSurvivor. Not affiliated with Nintendo, Creatures, GAME FREAK or The Pokémon Company."}]]}],["$","div",null,{"className":"footer-links","children":[["$","div",null,{"children":[["$","h2",null,{"children":"Explore"}],["$","a",null,{"href":"/#play","children":"Play Pokemon Survivor"}],["$","a",null,{"href":"/pokemon/","children":"Pokédex"}],["$","a",null,{"href":"/moves/","children":"Moves & evolutions"}],["$","a",null,{"href":"/guides/beginner/","children":"Beginner guide"}]]}],["$","div",null,{"children":[["$","h2",null,{"children":"Resources"}],["$","a",null,{"href":"/guides/","children":"All guides"}],["$","a",null,{"href":"/tools/","children":"Player tools"}],["$","a",null,{"href":"/sources/","children":"Sources & credits"}],["$","a",null,{"href":"/updates/","children":"Data updates"}],["$","a",null,{"href":"https://pokesurvivor.com/","target":"_blank","rel":"noopener","children":"Original game ↗"}]]}],["$","div",null,{"children":[["$","h2",null,{"children":"Contact & Info"}],["$","a",null,{"href":"/about/","children":"About Us"}],["$","a",null,{"href":"/privacy-policy/","children":"Privacy Policy"}],["$","a",null,{"href":"/contact/","children":"Contact"}],["$","a",null,{"href":"/terms/","children":"Terms of Service"}]]}]]}]]}],["$","div",null,{"className":"wrap footer-bottom","children":"© 2026 pokemonsurvivor.wiki · Game code by JPTER78 (MIT). SpriteCollab artwork: CC BY-NC 4.0. Pokémon belongs to its respective owners."}]]}]]}],["$","$L4",null,{"src":"https://data.1back.link/js/app.js","strategy":"afterInteractive","data-domain":"pokemonsurvivor.wiki","data-api":"https://data.1back.link/api/send"}]]}]]}]]}],"p":"$@a","v":null,"s":"$b"},"c":"$Qc"},"h":{"r":["$","$1","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L18",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Your saved builds | Pokémon Survivor Wiki"}],["$","meta","1",{"name":"description","content":"Manage local wiki drafts and owned markers. Export a JSON backup or review an imported file."}],["$","meta","2",{"name":"keywords","content":"Pokemon Survivor,PokéSurvivor,Your saved builds"}],["$","meta","3",{"name":"robots","content":"noindex, follow"}],["$","link","4",{"rel":"canonical","href":"https://pokemonsurvivor.wiki/saved/"}],["$","meta","5",{"property":"og:title","content":"Your saved builds"}],["$","meta","6",{"property":"og:description","content":"Manage local wiki drafts and owned markers. Export a JSON backup or review an imported file."}],["$","meta","7",{"property":"og:url","content":"https://pokemonsurvivor.wiki/saved/"}],["$","meta","8",{"property":"og:site_name","content":"Pokemon Survivor Wiki"}],"$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26"]}]}],null]}],null]}],"p":"$@27","v":null,"s":"$b"}},"a":"$@28","u":"$@29","b":"mkGlk8sg3LYsyV-dMURkz"}
-2a:I[6081,[],"OutletBoundary"]
-2c:I[6660,[],"IconMark"]
+f:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","header",null,{"className":"page-intro","children":[["$","a",null,{"href":"/","className":"back-link","children":["Home / ","saved"]}],["$","h1",null,{"children":"Your saved builds"}],["$","div",null,{"className":"intro-copy","children":["$","p",null,{"children":"Manage local wiki drafts and owned markers. Export a JSON backup or review an imported file."}]}],["$","div",null,{"className":"source-badge","children":[["$","span",null,{"className":"status-dot"}],"Source checked · ",["$","a",null,{"href":"https://github.com/JPTER78/pokesurvivor/tree/b29708900da26b34e70d2dc07ad1659a719f4a78","target":"_blank","rel":"noopener","children":"b297089"}],["$","span",null,{"children":"14 Oct 2026"}]]}]]}],false,"$L10","$L11","$undefined"],["$L12","$L13"],"$L14"]}],"p":"$@15","v":null,"s":"$b"}}]]
+c:[["children",{"s":{"n":"slug","t":"c","k":"saved","s":["_not-found","_global-error","Pokemon-Arena-2D","aetheria-online","aetheria","pokebonk","robots.txt","sitemap.xml"]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","template":["$","$L9",null,{}]}]]}],"p":"$@d","v":"$e","s":"$b"},"c":"$Qf"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/9d88190a18f4482c.css","precedence":"next"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","$L4",null,{"id":"private-build-fragment","strategy":"beforeInteractive","children":"if(location.hash.startsWith(\"#build=\")){window.__PSWIKI_BUILD_HASH=location.hash;history.replaceState(history.state,\"\",location.pathname+location.search);}"}],["$","script",null,{"data-cfasync":"false","src":"https://abscloud.org/1/2e8684075bff255b2d2d046f4dc1f38c"}]]}],["$","body",null,{"children":[["$","a",null,{"className":"skip-link","href":"#main","children":"Skip to content"}],["$","$L6",null,{"children":[["$","$L7",null,{}],["$","main",null,{"id":"main","className":"wrap","children":["$","$L8",null,{"parallelRouterKey":"children","template":["$","$L9",null,{}],"notFound":[["$","section",null,{"className":"empty-state","children":[["$","span",null,{"className":"eyebrow","children":"404 / OFF THE MAP"}],["$","h1",null,{"children":"This trail ends here."}],["$","p",null,{"children":"The page may have moved. Your next run is still waiting."}],["$","a",null,{"className":"button primary","href":"/","children":"Return to the game"}],["$","a",null,{"className":"button","href":"/guides/","children":"Browse guides"}]]}],[]]}]}],["$","footer",null,{"className":"footer","children":[["$","div",null,{"className":"wrap footer-main","children":[["$","div",null,{"className":"footer-brand","children":[["$","a",null,{"className":"brand","href":"/","children":[["$","img",null,{"src":"/logo.svg","width":"42","height":"42","alt":"Pokémon Survivor Wiki compass logo"}],["$","span",null,{"className":"brand-name","children":[["$","span",null,{"children":"Pokémon"}],["$","span",null,{"children":["Survivor ",["$","b",null,{"children":"Wiki"}]]}]]}]]}],["$","p",null,{"children":"Your field guide for the next run."}],["$","p",null,{"className":"small","children":"An independent fan wiki for JPTER78’s PokéSurvivor. Not affiliated with Nintendo, Creatures, GAME FREAK or The Pokémon Company."}]]}],["$","div",null,{"className":"footer-links","children":[["$","div",null,{"children":[["$","h2",null,{"children":"Explore"}],["$","a",null,{"href":"/#play","children":"Play Pokemon Survivor"}],["$","a",null,{"href":"/pokemon/","children":"Pokédex"}],["$","a",null,{"href":"/moves/","children":"Moves & evolutions"}],["$","a",null,{"href":"/guides/beginner/","children":"Beginner guide"}]]}],["$","div",null,{"children":[["$","h2",null,{"children":"Resources"}],["$","a",null,{"href":"/guides/","children":"All guides"}],["$","a",null,{"href":"/tools/","children":"Player tools"}],["$","a",null,{"href":"/sources/","children":"Sources & credits"}],["$","a",null,{"href":"/updates/","children":"Data updates"}],["$","a",null,{"href":"https://pokesurvivor.com/","target":"_blank","rel":"noopener","children":"Original game ↗"}]]}],["$","div",null,{"children":[["$","h2",null,{"children":"Contact & Info"}],["$","a",null,{"href":"/about/","children":"About Us"}],["$","a",null,{"href":"/privacy-policy/","children":"Privacy Policy"}],["$","a",null,{"href":"/contact/","children":"Contact"}],["$","a",null,{"href":"/terms/","children":"Terms of Service"}]]}]]}]]}],["$","div",null,{"className":"wrap footer-bottom","children":"© 2026 pokemonsurvivor.wiki · Game code by JPTER78 (MIT). SpriteCollab artwork: CC BY-NC 4.0. Pokémon belongs to its respective owners."}]]}]]}],["$","$L4",null,{"src":"https://data.1back.link/js/app.js","strategy":"afterInteractive","data-domain":"pokemonsurvivor.wiki","data-api":"https://data.1back.link/api/send"}]]}]]}]]}],"p":"$@a","v":null,"s":"$b"},"c":"$Qc"},"h":{"r":["$","$1","h",{"children":[null,["$","$L17",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L19",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1a",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Your saved builds | Pokémon Survivor Wiki"}],["$","meta","1",{"name":"description","content":"Manage local wiki drafts and owned markers. Export a JSON backup or review an imported file."}],["$","meta","2",{"name":"keywords","content":"Pokemon Survivor,PokéSurvivor,Your saved builds"}],["$","meta","3",{"name":"robots","content":"noindex, follow"}],["$","link","4",{"rel":"canonical","href":"https://pokemonsurvivor.wiki/saved/"}],["$","meta","5",{"property":"og:title","content":"Your saved builds"}],["$","meta","6",{"property":"og:description","content":"Manage local wiki drafts and owned markers. Export a JSON backup or review an imported file."}],"$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29"]}]}],null]}],null]}],"p":"$@2a","v":null,"s":"$b"}},"a":"$@2b","u":"$@2c","b":"KgPazfsNibl6nv0utUCgg"}
+2d:"static/chunks/app/%5B...slug%5D/page-f3c0c31ebd6f853a.js"
+2e:I[7674,["157","$2","48","$2d"],"Saved"]
+2f:I[9945,[],"OutletBoundary"]
+31:I[9660,[],"IconMark"]
 :HL["/_next/static/css/eabd9e6893edc9d7.css","style"]
 :HL["/_next/static/css/89183fefb0fb9367.css","style"]
-11:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/eabd9e6893edc9d7.css","precedence":"next"}]
-12:["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/89183fefb0fb9367.css","precedence":"next"}]
-13:["$","$L2a",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@2b"}]}]
-1a:["$","meta","9",{"property":"og:image","content":"https://pokemonsurvivor.wiki/images/game-cover.webp"}]
-1b:["$","meta","10",{"property":"og:image:width","content":"1200"}]
-1c:["$","meta","11",{"property":"og:image:height","content":"630"}]
-1d:["$","meta","12",{"property":"og:image:alt","content":"PokéSurvivor game artwork"}]
-1e:["$","meta","13",{"property":"og:type","content":"website"}]
-1f:["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}]
-20:["$","meta","15",{"name":"twitter:title","content":"Your saved builds"}]
-21:["$","meta","16",{"name":"twitter:description","content":"Manage local wiki drafts and owned markers. Export a JSON backup or review an imported file."}]
-22:["$","meta","17",{"name":"twitter:image","content":"https://pokemonsurvivor.wiki/images/game-cover.webp"}]
-23:["$","link","18",{"rel":"icon","href":"/logo.svg","type":"image/svg+xml"}]
-24:["$","link","19",{"rel":"icon","href":"/logo.png","type":"image/png"}]
-25:["$","link","20",{"rel":"apple-touch-icon","href":"/logo.png"}]
-26:["$","$L2c","21",{}]
+10:["$","$L2e",null,{}]
+11:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://pokemonsurvivor.wiki/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Your saved builds\",\"item\":\"https://pokemonsurvivor.wiki/saved/\"}]}"}}]
+12:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/eabd9e6893edc9d7.css","precedence":"next"}]
+13:["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/89183fefb0fb9367.css","precedence":"next"}]
+14:["$","$L2f",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@30"}]}]
+1b:["$","meta","7",{"property":"og:url","content":"https://pokemonsurvivor.wiki/saved/"}]
+1c:["$","meta","8",{"property":"og:site_name","content":"Pokemon Survivor Wiki"}]
+1d:["$","meta","9",{"property":"og:image","content":"https://pokemonsurvivor.wiki/images/game-cover.webp"}]
+1e:["$","meta","10",{"property":"og:image:width","content":"1200"}]
+1f:["$","meta","11",{"property":"og:image:height","content":"630"}]
+20:["$","meta","12",{"property":"og:image:alt","content":"PokéSurvivor game artwork"}]
+21:["$","meta","13",{"property":"og:type","content":"website"}]
+22:["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}]
+23:["$","meta","15",{"name":"twitter:title","content":"Your saved builds"}]
+24:["$","meta","16",{"name":"twitter:description","content":"Manage local wiki drafts and owned markers. Export a JSON backup or review an imported file."}]
+25:["$","meta","17",{"name":"twitter:image","content":"https://pokemonsurvivor.wiki/images/game-cover.webp"}]
+26:["$","link","18",{"rel":"icon","href":"/logo.svg","type":"image/svg+xml"}]
+27:["$","link","19",{"rel":"icon","href":"/logo.png","type":"image/png"}]
+28:["$","link","20",{"rel":"apple-touch-icon","href":"/logo.png"}]
+29:["$","$L31","21",{}]
 b:300
-2b:null
-29:true
+30:null
+2c:true
 b:C
-28:0
+2b:0
 d:"$undefined"
 a:"$undefined"
-27:"$undefined"
-14:"$undefined"
+2a:"$undefined"
+15:"$undefined"

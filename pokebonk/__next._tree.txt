@@ -1,8 +1,8 @@
-:HL["/_next/static/css/97d69044e916a9d9.css","style"]
+:HL["/_next/static/css/9d88190a18f4482c.css","style"]
 :HL["/_next/static/css/4fa0f7e2c3d930e0.css","style"]
 :HL["/logo.svg","image"]
 :HL["/images/pokebonk/original-icon.png","image"]
 :HL["/images/pokebonk/gameplay.webp","image",{"fetchPriority":"high"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"pokebonk","h":96,"c":"$Q2"}]]
-0:{"b":"mkGlk8sg3LYsyV-dMURkz","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"KgPazfsNibl6nv0utUCgg","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
