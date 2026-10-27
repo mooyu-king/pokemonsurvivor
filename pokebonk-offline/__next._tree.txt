@@ -1,0 +1,6 @@
+:HL["/_next/static/css/9d88190a18f4482c.css","style"]
+:HL["/_next/static/css/add5e74727e2de8a.css","style"]
+:HL["/logo.svg","image"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"pokebonk-offline","h":96,"c":"$Q2"}]]
+0:{"b":"0BrgWECbynzl2wLMENUCc","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

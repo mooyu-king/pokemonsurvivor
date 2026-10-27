@@ -9,3 +9,5 @@
   Content-Security-Policy: frame-ancestors 'self'; frame-src 'self' https://aetheria-solo.mooyuking.workers.dev https://s.pokemonsurvivor.wiki https://www.youtube-nocookie.com; object-src 'none'; base-uri 'self'
 /_next/static/*
   Cache-Control: public, max-age=31536000, immutable
+/images/pokebonk/forest-sprite-credits.txt
+  X-Robots-Tag: noindex
