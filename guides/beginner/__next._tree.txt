@@ -4,4 +4,4 @@
 :HL["/logo.svg","image"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":{"n":"slug","t":"c","k":"guides/beginner","s":["_not-found","_global-error","Pokemon-Arena-2D","aetheria-online","aetheria","pokebonk-offline","pokebonk","robots.txt","sitemap.xml"]},"h":65632,"c":"$Q2"}]]
-0:{"b":"zSw65gCKgpoMyGry32S1c","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"R-YsIUIS2H2kI1F6wpE9U","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}

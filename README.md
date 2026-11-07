@@ -1,6 +1,5 @@
 # Pokémon Survivor Wiki
 
-[English](#english) · [繁體中文](#繁體中文)
 
 <p align="center"><img src="logo.png" alt="Pokémon Survivor Wiki compass logo" width="112" /></p>
 
@@ -10,7 +9,6 @@
 
 ![Illustrated forest expedition with featured Pokémon, using SpriteCollab character art](images/play-cover.webp)
 
-## English
 
 Pokémon Survivor Wiki is an independent companion for JPTER78’s **PokéSurvivor** browser survival game. Choose a partner, dodge enemy crowds, collect experience and learn when to switch your active move. Find clear answers alongside a local solo game edition.
 
@@ -43,37 +41,41 @@ This edition is **local single-player**. Collection and progression stay in the 
 
 [Start playing](https://pokemonsurvivor.wiki/#play) · [Browse all guides](https://pokemonsurvivor.wiki/guides/) · [Contact us](https://pokemonsurvivor.wiki/contact/)
 
-## 繁體中文
 
-**再挑戰一局，準備得更充分。**
+## Learn from a short first run
 
-Pokémon Survivor Wiki 是 JPTER78 的 **PokéSurvivor** 瀏覽器生存遊戲獨立粉絲指南。選擇夥伴、避開敵群、收集經驗，並學會切換目前使用的招式。網站結合本機單人遊戲與清楚易查的攻略，幫助你理解每次選擇。
+A first run is a chance to understand movement, enemy pressure and the active move rather than a test you must pass immediately. Choose an available starting partner and pay attention to how attacks behave while you move. Automatic attacks still leave you responsible for positioning. Collecting experience is useful, but stepping into a crowded area just to collect one item may not be worth the risk.
 
-### 找到目前最需要的答案
+After the run, identify one decision you would change. Perhaps you stayed near a group of enemies too long, overlooked an upgrade or switched moves at an awkward moment. A specific observation makes the next attempt more informative. There is no need to interpret one early defeat as evidence that your chosen partner is unusable.
 
-| 你的目標 | 閱讀入口 |
-| --- | --- |
-| 開始第一局 | [新手與操作指南](https://pokemonsurvivor.wiki/guides/beginner/)，搭配真實遊戲畫面 |
-| 了解招式進化 | [招式資料庫](https://pokemonsurvivor.wiki/moves/)，查詢 64 個招式及進化條件 |
-| 選擇合適夥伴 | [寶可夢圖鑑](https://pokemonsurvivor.wiki/pokemon/)，依名稱、屬性及地區瀏覽 966 隻寶可夢 |
-| 擴充收藏 | [票券、地區卡池與保底](https://pokemonsurvivor.wiki/guides/gacha/)及[異色機率](https://pokemonsurvivor.wiki/guides/shinies/) |
-| 挑戰傳說競技場 | [裂隙出現條件、獎勵與羈絆](https://pokemonsurvivor.wiki/guides/bosses-rifts/) |
-| 排除遊玩問題 | [載入、音效、手機與存檔說明](https://pokemonsurvivor.wiki/guides/save-mobile-troubleshooting/) |
+## Look up conditions, not just names
 
-![本機遊戲的真實地區抽卡畫面，顯示關都卡池與票券選項](images/guides/gacha-banners.webp)
+The moves pages explain requirements and relationships that can be easy to miss during play. When investigating an evolution, read all the stated conditions instead of remembering only the final move name. A plan that depends on several requirements should be treated differently from an upgrade available immediately. Use the information to decide what to watch for during a run.
 
-*先確認地區卡池、票券數量及各地區獨立的保底計數，再決定如何擴充收藏。*
+The Pokédex gives another route into the same decision. Search or browse for a partner, check its context and compare it with an alternative that interests you. A large catalog does not mean that every character is available as an initial choice. Collection unlocks and starting options should remain separate in your expectations.
 
-### 遊玩之外的小幫手
+## Plan without promising a result
 
-使用[配裝規劃工具](https://pokemonsurvivor.wiki/tools/build-planner/)檢查合法招式、[比較兩位夥伴](https://pokemonsurvivor.wiki/tools/compare/)，並儲存或分享草案。這些工具用來理解規則，不代表最強配裝排名，也不保證生存時間。
+The planner helps you examine a legal moveset before you try to pursue it in play. A legal combination is not a guaranteed winning strategy. Availability, your decisions and the situations you encounter still matter. Treat a shared draft as a conversation starter: explain what you are trying to achieve and which conditions the plan depends on.
 
-此版本提供**本機單人遊玩**。瀏覽器允許儲存時，收藏及成長進度會保留於目前的瀏覽器；重新載入不會恢復尚未結束的戰鬥。Wiki 草案與遊戲存檔分開管理。想使用作者的線上版本，請閱讀[合作遊玩指南](https://pokemonsurvivor.wiki/guides/co-op/)。
+Comparison tools are useful when you have a focused question. Compare partners you are genuinely considering, then return to their individual information when a difference needs explanation. A compact comparison cannot replace all the context in a guide. Saving a wiki draft also does not change the partner, collection or progress in the actual game.
 
-[開始遊玩](https://pokemonsurvivor.wiki/#play) · [瀏覽全部攻略](https://pokemonsurvivor.wiki/guides/) · [聯絡我們](https://pokemonsurvivor.wiki/contact/)
+## Understand collection systems
 
----
+Tickets, regional banners and pity rules deserve a careful read before you spend resources. The collection guide explains the relevant distinctions, while the shiny guide addresses a different question about rare appearances. Do not assume that a counter or rule applies identically across every region or activity just because the interface uses similar language.
 
-Game code by JPTER78 (MIT). SpriteCollab artwork is subject to CC BY-NC 4.0. Pokémon names and characters belong to their respective owners. This independent fan project is not an official Pokémon service. [Sources & credits](https://pokemonsurvivor.wiki/sources/).
+Use the guides to check what a resource is for and what a result can reasonably mean. Probability is not a promise that a desired outcome will arrive on a particular attempt unless a stated rule explicitly provides that guarantee. A memorable success or disappointment from another player is not a substitute for reading the conditions of the version you are playing.
 
-遊戲程式由 JPTER78 製作（MIT），SpriteCollab 美術素材適用 CC BY-NC 4.0。寶可夢名稱與角色屬於各自權利人；本站為獨立粉絲專案，並非官方服務。[資料來源與致謝](https://pokemonsurvivor.wiki/sources/)。
+## Prepare for special encounters
+
+The rift and boss material brings together conditions, rewards and bonds so that you can approach a special encounter with context. Read the entry requirements before planning around a reward. If you do not yet meet a condition, the useful next step may be ordinary progression rather than repeatedly looking for an encounter that is not available to you.
+
+Keep version differences in mind when watching videos or reading discussions elsewhere. This website presents a local solo edition alongside reference material. The co-op guide points toward the author's online experience; it does not turn the embedded local game into a multiplayer session. Choose the destination that matches the activity you actually want.
+
+## Protect progress and drafts
+
+Local collection and progression depend on browser storage being available. Changing profiles, clearing site data or moving to another device can change what is retained. A running battle does not resume after a page reload. Before refreshing to solve a problem, consider whether you are about to interrupt an active attempt.
+
+The troubleshooting guide covers loading, sound, mobile interaction and save questions. Describe the symptom precisely if you need help: whether the page opened, whether the game started, and what happened immediately before the problem. Do not include private account information in a report.
+
+This is an independent fan companion for JPTER78's game. Names and character artwork remain associated with their respective rights holders. Use the wiki to prepare, understand a rule and return to play with a clearer plan, not as a promise of guaranteed rewards or a perfect survival time.
