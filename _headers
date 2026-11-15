@@ -1,5 +1,4 @@
 /game/*
-  X-Robots-Tag: noindex
   Cache-Control: public, max-age=0, must-revalidate
   Content-Security-Policy: frame-ancestors 'self'
   Referrer-Policy: strict-origin-when-cross-origin
