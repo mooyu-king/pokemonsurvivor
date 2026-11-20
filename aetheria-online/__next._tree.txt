@@ -3,5 +3,5 @@
 :HL["/_next/static/css/4a801cd2651f3b8c.css","style"]
 :HL["/logo.svg","image"]
 2:[["children",{"s":"__PAGE__","h":160}]]
-1:[["children",{"s":"aetheria-online","h":96,"c":"$Q2"}]]
-0:{"b":"wI6j8MGnxGZMd5N4Cp8BB","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+1:[["children",{"s":"aetheria-online","h":64,"c":"$Q2"}]]
+0:{"b":"03H9Dbx3weZItSSNk2VzP","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
